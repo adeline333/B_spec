@@ -96,16 +96,16 @@ export default function Home() {
   };
 
   const products = [
-    { name: "Gilbey's Gin (Big)", desc: "Premium gin, large size.", src: "/b images/Gilbeys big.jfif" },
-    { name: "Gilbey's Gin (Small)", desc: "Premium gin, small size.", src: "/b images/gilbeys small.jfif" },
-    { name: "Bond 7 Whisky (Big)", desc: "Classic blended whisky, large size.", src: "/b images/bond7 big.jfif" },
-    { name: "Bond 7 Whisky (Small)", desc: "Classic blended whisky, small size.", src: "/b images/bond7 small.jfif" },
-    { name: "Konyagi", desc: "The spirit of the nation.", src: "/b images/konyagi.jfif" },
-    { name: "Smirnoff Ice", desc: "Crisp and refreshing.", src: "/b images/smirnoff ice.jfif" },
-    { name: "Smirnoff Ice Black", desc: "Bold, smooth, and refreshing.", src: "/b images/smirnoff ice black.jfif" },
-    { name: "Tusker Lager & Guinness", desc: "Iconic beer and stout selection.", src: "/b images/tusker guiness.jfif" },
-    { name: "Tusker Lager", desc: "Premium quality lager.", src: "/b images/tusker lagger.png" },
-    { name: "Tusker Malt", desc: "Rich flavor and satisfying.", src: "/b images/tusker malt.jfif" }
+    { name: "Gilbey's Gin (Big)", desc: "Premium gin, large size.", src: "/images/Gilbeys_big.jfif" },
+    { name: "Gilbey's Gin (Small)", desc: "Premium gin, small size.", src: "/images/gilbeys_small.jfif" },
+    { name: "Bond 7 Whisky (Big)", desc: "Classic blended whisky, large size.", src: "/images/bond7_big.jfif" },
+    { name: "Bond 7 Whisky (Small)", desc: "Classic blended whisky, small size.", src: "/images/bond7_small.jfif" },
+    { name: "Konyagi", desc: "The spirit of the nation.", src: "/images/konyagi.jfif" },
+    { name: "Smirnoff Ice", desc: "Crisp and refreshing.", src: "/images/smirnoff_ice.jfif" },
+    { name: "Smirnoff Ice Black", desc: "Bold, smooth, and refreshing.", src: "/images/smirnoff_ice_black.jfif" },
+    { name: "Tusker Lager & Guinness", desc: "Iconic beer and stout selection.", src: "/images/tusker_guiness.jfif" },
+    { name: "Tusker Lager", desc: "Premium quality lager.", src: "/images/tusker_lagger.png" },
+    { name: "Tusker Malt", desc: "Rich flavor and satisfying.", src: "/images/tusker_malt.jfif" }
   ];
 
   return (

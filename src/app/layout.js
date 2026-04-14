@@ -28,7 +28,7 @@ export const metadata = {
     siteName: "BSpecial Business Ltd",
     images: [
       {
-        url: "/b images/Gilbeys big.jfif",
+        url: "/images/Gilbeys_big.jfif",
         width: 800,
         height: 800,
         alt: "BSpecial Business Ltd - Premium Liquor",
