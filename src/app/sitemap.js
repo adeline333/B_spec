@@ -1,7 +1,7 @@
 export default function sitemap() {
   return [
     {
-      url: 'https://bspecial.vercel.app',
+      url: 'https://bspecialbusinessltd.com',
       lastModified: new Date(),
       changeFrequency: 'weekly',
       priority: 1,

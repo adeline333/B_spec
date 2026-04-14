@@ -24,7 +24,7 @@ export const metadata = {
   openGraph: {
     title: "BSpecial Business Ltd | Premium Liquor Distributors",
     description: "Your trusted wholesale liquor distributor located in Nyarugenge Market, Kigali.",
-    url: "https://bspecial.vercel.app",
+    url: "https://bspecialbusinessltd.com",
     siteName: "BSpecial Business Ltd",
     images: [
       {

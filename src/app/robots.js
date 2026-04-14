@@ -4,6 +4,6 @@ export default function robots() {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://bspecial.vercel.app/sitemap.xml',
+    sitemap: 'https://bspecialbusinessltd.com/sitemap.xml',
   }
 }
